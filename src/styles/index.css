@@ -1,4 +1,3 @@
-
 /* 
 
     You can write your own styles here...
@@ -10,3 +9,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.danger {
+    background-color: #EFCECE;
+}
+
+.warning {
+    background-color: #FBFCCF;
+}
+
+.success {
+    background-color: #A2F99A;
+}
